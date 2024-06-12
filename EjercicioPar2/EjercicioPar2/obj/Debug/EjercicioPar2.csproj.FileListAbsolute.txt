@@ -1,0 +1,12 @@
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\EjercicioPar2.exe.config
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\EjercicioPar2.exe
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\EjercicioPar2.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.Form1.resources
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.exe
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\obj\Debug\EjercicioPar2.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2012\Projects\EjercicioPar2\EjercicioPar2\bin\Debug\MySql.Fabric.Plugin.dll
